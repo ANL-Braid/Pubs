@@ -5,7 +5,7 @@ Advanced Computing Systems and Software: Connecting Instruments from Edge to Sup
 
 Title:
 
-Braid DB: Toward AI-driven science with machine learning provenance
+Braid-DB: Toward AI-driven science with machine learning provenance
 
 Authors:
 

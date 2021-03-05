@@ -3,8 +3,7 @@ Next-generation scientific instruments will collect data at unprecedented rates:
 
 This paper presents Braid-DB, a provenance system that embraces AI-for-science automation in how and when to analyze and retain data, and when to alter experimental configurations.  Traditional provenance systems automate record-keeping so that humans and/or machines can recover how a particular result was obtained---and, when failures occur, diagnose causes and enable rapid restart.  Braid and related efforts need additional recording about model training inputs, including experiments, simulations, and the structures of other learning and analysis activity.
 
-The approach presented here combines provenance and version control concepts to provide a robust and usable solution.  It develops recursive and versioned provenance structures to capture how models may be constructed via other models (e.g. estimators and  surrogates) and frequent model updates, allowing the user to track past decisions as models make decisions and are retrained.
-The presentation will survey five partner apps for use cases and requirements.
+The approach presented here combines provenance and version control concepts to provide a robust and usable solution.  It develops recursive and versioned provenance structures to capture how models may be constructed via other models (e.g. estimators and  surrogates) and frequent model updates, allowing the user to track past decisions as models make decisions and are retrained.  The presentation will survey five partner apps for use cases and requirements.
 
 # and policy adherence
 
